@@ -1,3 +1,5 @@
+Updated June 10th via: https://www.reddit.com/r/2007scape/comments/nntmsb/i_made_a_runelite_chat_filter_that_automatically/
+
 FILTERED NAMES
 ^(vegas|raise|gamble|rng|roll|trusted) \d{3,}$
 ^veg [a-z]\d[a-z]\d$
@@ -150,5 +152,3 @@ twitch.+giveaway.+drop part
 ^ *do n\.?o\.?t search for (keyword )?giveaways on youtub
 ^ *(buy|sel+)ing? .+ ?[-|]+ ?[\w\-_ ]+ *$
 not safe on pvp.+you never get the sceptre
-
-Updated June 10th via: https://www.reddit.com/r/2007scape/comments/nntmsb/i_made_a_runelite_chat_filter_that_automatically/
